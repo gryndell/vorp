@@ -6,4 +6,5 @@ or similar and is configured with a "Workstation ID". The ERP system is used to
 assign individual jobs to workstations. Results of operations are returned to
 the ERP system. Currently set up as partly bilingual, allowing field labels to
 be in Thai script. JSON layouts were designed for exchange with QAD&trade;, but should
-be applicable to other systems.
+be applicable to other systems. Starting password for configuration is
+"V0rpal5w0rd". Password editing facility is yet to be implemented.

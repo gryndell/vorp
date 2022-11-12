@@ -1,3 +1,4 @@
+# Database functions for Virtual Operation Recording Program
 import os
 import json
 import sqlite3

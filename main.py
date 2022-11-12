@@ -1,4 +1,14 @@
 #!/usr/bin/env python3
+""" VORP (Virtual Operation Recording Program)
+"""
+
+__author__ = "gryndell"
+__copyright__ = "Copyright 2022"
+__license__ = "GPL3"
+__version__ = "0.1"
+__maintainer__ = "gryndell"
+__email__ = "alfred(dot)pengelly(at)gmail(dot)com"
+__status__ = "Prototype"
 
 import collections
 import tkinter as tk
