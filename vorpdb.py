@@ -95,7 +95,7 @@ def isLoaded(iCur, iTable, iId, iOp, iComp, iTask):
             logEvent("Error: {}".format(str(e)))
             return 0
         testResult = iCur.fetchone()
-    if len(testResult) > 0:
+    if testResult is not None and len(testResult) > 0:
         return True
     else:
         return False
